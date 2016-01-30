@@ -17,7 +17,7 @@ För att förverkliga sina mål kan föreningen
 * Föreningen kan också i anslutning till sina träffar tillhandahålla elektroniska hjälpmedel, programlicenser osv. som behövs för att barn och ungdomar oavsett socioekonomisk bakgrund ska kunna delta på lika villkor.
 
 #§ 3 Medlemmar 
-Medlem i föreningen kan varje person bli som förbinder sig att följa dessa stadgar. Föreningen är skyldig att föra förteckning över sina medlemmar. Till hedersmedlem kan på styrelsens framställan kallas en person som på ett förtjänstfullt sätt verkat för föreningens bästa.
+Medlem i föreningen kan varje person bli som förbinder sig att följa dessa stadgar. Föreningen är skyldig att föra förteckning över sina medlemmar. Till hedersmedlem kan på styrelsens framställan kallas en person som på ett förtjänstfullt sätt verkat för föreningens bästa. Medlemsmatrikeln ska skickas till alla medlemmar via e-post eller motsvarande en gång per år.
 
 #§ 4 Medlemsavgift 
 Föreningens medlemmar erlägger årligen en medlemsavgift vars storlek för nästkommande år fastställs av föreningens årsmöte.

@@ -1,6 +1,6 @@
 # Välkommen som ny mentor!
 
-Har du grundläggande kunskaper i programmering och trivs med programmering som social aktivitet så är du välkommen som mentor.
+Har du grundläggande kunskaper i programmering och trivs med programmering som social aktivitet så är du välkommen som mentor. 
 
 ##Våra drivkrafter
 * Programmering är en kul *social* aktivitet som alla ska ha en chans att pröva på
@@ -26,8 +26,4 @@ Bra att kunna litet om
 Bra länkar hittar du till vänster på [hemsidan](http://lund.coderdojo.se/).
 
 #Formalia
-1. Som mentor hoppas vi att du vill vara (kostnadsfri) medlem i ideella föreningen CoderDojo Lund men det är inget krav.
-
-1. Enligt lagen om registerkontroll av personer som ska arbeta med barn (2013:852), måste alla mentorer årligen skicka in ett utdrag ur belastningsregistret, på samma sätt som exempelvis scouterna gör.
-När du får försändelsen lämnar du den oöppnad till någon i föreningens styrelse som tar del av den och sedan arkiverar den.
-Länk till blankett: [Föreningar m.m där personer ska arbeta med barn](https://polisen.se/Service/Blanketter/Blanketter-belastningsregistret/Foreningar-mm-dar-personer-ska-arbeta-med-barn-44214/)
+Som mentor får du gärna vara medlem i ideella föreningen CoderDojo Lund men det är inget krav. Föreningen är öppen även för andra som vill stödja CoderDojos verksamhet.

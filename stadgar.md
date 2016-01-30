@@ -46,8 +46,8 @@ På föreningens årsmöte ska följande ärenden behandlas:
 1. behandling av styrelsens berättelse över verksamheten föregående år samt beslut om dess godkännande 
 1. behandling av föreningens bokslut och revisorernas utlåtande över detta samt beslut om fastställande av bokslutet 
 1. beviljande av ansvarsfrihet 
-1. val av styrelse 
-1. val av revisorer 
+1. val av ordförande, styrelseledamöter och suppleanter 
+1. val av revisor och revisorssuppleant 
 1. val av valberedning 
 1. behandling av ärenden som av styrelsen förelagts årsmötet 
 1. beslut om medlemsavgiften 

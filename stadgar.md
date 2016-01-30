@@ -12,9 +12,9 @@ Föreningen är partipolitiskt och religiöst obunden.
 Föreningen förverkligar sin uppgift i enlighet med sina stadgar samt på det sätt som fastställts vid föreningens möten.
 
 För att förverkliga sina mål kan föreningen
-* anordna träffar för barn och ungdomar med syftet att lära ut programmering och
-* anordna relevant kompetensutveckling för föreningens medlemmar.
-* Föreningen kan också i anslutning till sina träffar tillhandahålla elektroniska hjälpmedel, programlicenser osv. som behövs för att barn och ungdomar oavsett socioekonomisk bakgrund ska kunna delta på lika villkor.
+* anordna träffar för barn och ungdomar med syftet att lära ut programmering,
+* anordna relevant kompetensutveckling för föreningens medlemmar
+* och föreningen kan också i anslutning till sina träffar tillhandahålla elektroniska hjälpmedel, programlicenser osv. som behövs för att barn och ungdomar oavsett socioekonomisk bakgrund ska kunna delta på lika villkor.
 
 #§ 3 Medlemmar 
 Medlem i föreningen kan varje person bli som förbinder sig att följa dessa stadgar. Föreningen är skyldig att föra förteckning över sina medlemmar. Till hedersmedlem kan på styrelsens framställan kallas en person som på ett förtjänstfullt sätt verkat för föreningens bästa. Medlemsmatrikeln ska skickas till alla medlemmar via e-post eller motsvarande en gång per år.

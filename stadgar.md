@@ -5,15 +5,16 @@ Föreningens namn är *CoderDojo Lund*, med Lund som hemort.
 
 #§ 2 Ändamål och uppgifter
 Föreningen har till uppgift att att hjälpa barn och ungdomar att använda dator och motsvarande elektroniska hjälpmedel som ett skapande verktyg,
-främst genom att lära ut programmering. CoderDojo Lund ska verka i samma anda som den internationella CoderDojo-rörelsen, [coderdojo.com](https://coderdojo.com/). 
+främst genom att lära ut programmering. CoderDojo Lund ska, för att ha rätt att använda varumärket *CoderDojo*, verka i samma anda som den internationella CoderDojo-rörelsen, [coderdojo.com](https://coderdojo.com/) med [CoderDojo Charter](https://zen.coderdojo.com/charter) som styrdokument. 
 
 Föreningen är partipolitiskt och religiöst obunden. 
 
 Föreningen förverkligar sin uppgift i enlighet med sina stadgar samt på det sätt som fastställts vid föreningens möten.
 
-För att förverkliga sina mål kan föreningen anordna
-* träffar för barn och ungdomar med syftet att lära ut programmering och
-* relevant kompetensutveckling för föreningens medlemmar.
+För att förverkliga sina mål kan föreningen
+* anordna träffar för barn och ungdomar med syftet att lära ut programmering och
+* anordna relevant kompetensutveckling för föreningens medlemmar.
+* Föreningen kan också i anslutning till sina träffar tillhandahålla elektroniska hjälpmedel, programlicenser osv. som behövs för att barn och ungdomar oavsett socioekonomisk bakgrund ska kunna delta på lika villkor.
 
 #§ 3 Medlemmar 
 Medlem i föreningen kan varje person bli som förbinder sig att följa dessa stadgar. Föreningen är skyldig att föra förteckning över sina medlemmar. Till hedersmedlem kan på styrelsens framställan kallas en person som på ett förtjänstfullt sätt verkat för föreningens bästa.

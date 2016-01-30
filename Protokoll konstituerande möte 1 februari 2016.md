@@ -1,8 +1,6 @@
 Konstituerande möte, CoderDojo Lund ideell förening
 
-Tid och plats
-
-Deltagare
+Tid och plats: Ideon Agora, Lund
 
 1. Mötets öppnande 
 Någon av initiativtagarna hälsar de närvarande välkomna och ger en kort information om syftet med mötet och presenterar den som arbetat med förberedelserna. Deltagarna antecknas på en lista som vid behov kan användas som röstlängd.

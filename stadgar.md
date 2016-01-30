@@ -47,7 +47,7 @@ På föreningens årsmöte ska följande ärenden behandlas:
 1. behandling av föreningens bokslut och revisorernas utlåtande över detta samt beslut om fastställande av bokslutet 
 1. beviljande av ansvarsfrihet 
 1. val av ordförande, styrelseledamöter och suppleanter 
-1. val av revisor och revisorssuppleant 
+1. val av revisorer och revisorssuppleant 
 1. val av valberedning 
 1. behandling av ärenden som av styrelsen förelagts årsmötet 
 1. beslut om medlemsavgiften 
@@ -56,7 +56,7 @@ På föreningens årsmöte ska följande ärenden behandlas:
 #§ 8 Styrelsen 
 Föreningens verkställande organ är styrelsen. 
 
-I styrelsen ingår föreningens ordförande, som väljs för högst två år i sänder samt minst två övriga ledamöter, bland vilka styrelsen väljer vice ordförande för ett kalenderår i sänder. 
+I styrelsen ingår föreningens ordförande, som väljs för högst två år i sänder samt minst två övriga ledamöter, bland vilka styrelsen väljer vice ordförande respektive kassör för ett kalenderår i sänder. 
 
 Styrelsens ledamöter väljs för två år i taget, så att årligen hälften av dem är i tur att avgå. 
 

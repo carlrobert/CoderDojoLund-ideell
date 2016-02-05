@@ -1,4 +1,5 @@
 #Stadgar för *CoderDojo Lund, ideell förening*
+[PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/blob/master/stadgar.md)
 
 # §1 Föreningens namn och hemort 
 Föreningens namn är *CoderDojo Lund*, med Lund som hemort.

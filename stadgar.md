@@ -60,7 +60,7 @@ I styrelsen ingår föreningens ordförande, som väljs för högst två år i s
 
 Styrelsens ledamöter väljs för två år i taget, så att årligen hälften av dem är i tur att avgå. 
 
-I styrelsen ingår dessutom minst två suppleanter, vilka väljs för ett år i taget. Vid styrelsens sammanträden har dessa yttrande- och förslagsrätt samt rösträtt, då de fungerar som ersättare för ordinarie ledamot. 
+I styrelsen ingår dessutom upp till två suppleanter, vilka väljs för ett år i taget. Vid styrelsens sammanträden har dessa yttrande- och förslagsrätt samt rösträtt, då de fungerar som ersättare för ordinarie ledamot. 
 
 Styrelsen sammanträder på kallelse av ordföranden eller då denne är förhindrad av vice ordföranden eller då minst hälften av styrelsens ledamöter kräver detta. 
 
@@ -75,7 +75,7 @@ Styrelsen utser en styrelseledamot att teckna firma i kassörens ställe, då de
 #§ 10 Upplösning av föreningen 
 Beslut om upplösning av föreningen ska fattas av föreningens årsmöte samt därefter vid föreningsmöte som hålls tidigast en månad efter årsmötet. Ärendet ska omnämnas i kallelsen till mötet. beslut om upplösning av föreningen kan inte fattas med annat än med fyra femtedels (4/5) majoritet bland de närvarande medlemmarna. 
 
-Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
+Vid upplösningen av föreningen skänks tillgångarna till välgörande ändamål.
 
 ---
 
